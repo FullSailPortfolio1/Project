@@ -1,0 +1,9 @@
+c:\users\blake hughes\documents\visual studio 2015\Projects\Taco project\Taco project\bin\Debug\Taco project.exe.config
+C:\Users\Blake Hughes\Desktop\Old School\Taco project\Taco project\bin\Debug\Taco project.exe.config
+C:\Users\Blake Hughes\Desktop\SDI\Taco project\Taco project\bin\Debug\Taco project.exe.config
+\\vmware-host\Shared Folders\HughesBlake_Portfolio2\Old\SDI\Taco project\Taco project\bin\Debug\Taco project.exe.config
+\\vmware-host\Shared Folders\HughesBlake_Portfolio2\Old\SDI\Taco project\Taco project\obj\Debug\Taco project.csprojResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\HughesBlake_Portfolio2\Old\SDI\Taco project\Taco project\bin\Debug\Taco project.exe
+\\vmware-host\Shared Folders\HughesBlake_Portfolio2\Old\SDI\Taco project\Taco project\bin\Debug\Taco project.pdb
+\\vmware-host\Shared Folders\HughesBlake_Portfolio2\Old\SDI\Taco project\Taco project\obj\Debug\Taco project.exe
+\\vmware-host\Shared Folders\HughesBlake_Portfolio2\Old\SDI\Taco project\Taco project\obj\Debug\Taco project.pdb
