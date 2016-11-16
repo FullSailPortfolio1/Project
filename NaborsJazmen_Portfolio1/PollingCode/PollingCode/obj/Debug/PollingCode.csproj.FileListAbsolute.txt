@@ -1,0 +1,7 @@
+\\vmware-host\Shared Folders\Desktop\NaborsJazmen_Portfolio\PollingCode\PollingCode\bin\Debug\PollingCode.exe.config
+\\vmware-host\Shared Folders\NaborsJazmen_Portfolio\PollingCode\PollingCode\bin\Debug\PollingCode.exe.config
+\\vmware-host\Shared Folders\NaborsJazmen_Portfolio\PollingCode\PollingCode\bin\Debug\PollingCode.exe
+\\vmware-host\Shared Folders\NaborsJazmen_Portfolio\PollingCode\PollingCode\bin\Debug\PollingCode.pdb
+\\vmware-host\Shared Folders\NaborsJazmen_Portfolio\PollingCode\PollingCode\obj\Debug\PollingCode.csprojResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\NaborsJazmen_Portfolio\PollingCode\PollingCode\obj\Debug\PollingCode.exe
+\\vmware-host\Shared Folders\NaborsJazmen_Portfolio\PollingCode\PollingCode\obj\Debug\PollingCode.pdb
